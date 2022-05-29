@@ -1,0 +1,2 @@
+This is a test file within which words shall be located and replaced by the program title WordReplacer.c. 
+This program was written by Maxwell Babey with much enthusiasm; his love for the C language yet knows no bounds.
